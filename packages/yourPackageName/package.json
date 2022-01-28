@@ -1,6 +1,6 @@
 {
   "name": "demo-one",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "测试物料",
   "main": "./lib/index.js",
   "module": "./es/index.js",
@@ -25,9 +25,9 @@
     "preview": "arco preview"
   },
   "peerDependencies": {
+    "@arco-design/web-react": ">=2.0.0",
     "react": ">=16",
-    "react-dom": "^16.0.1",
-    "@arco-design/web-react": ">=2.0.0"
+    "react-dom": "^16.0.1"
   },
   "sideEffects": [
     "dist/**/*",

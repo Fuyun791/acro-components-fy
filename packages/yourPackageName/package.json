@@ -1,6 +1,6 @@
 {
   "name": "demo-one",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "测试物料",
   "main": "./lib/index.js",
   "module": "./es/index.js",

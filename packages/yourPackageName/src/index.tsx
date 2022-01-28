@@ -19,7 +19,7 @@ export interface TooltipButtonProps {
   btnProps?: ButtonProps;
 }
 
-const TooltipButton = (props: TooltipButtonProps) => {
+const TooltipButton = (props: TooltipButtonProps): ReactNode => {
   const { children, title = 'Hello Arco', btnProps } = props;
   return (
     <div className="arco-rc-tooltip-button">

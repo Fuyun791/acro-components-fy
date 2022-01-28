@@ -1,5 +1,5 @@
 {
-  "name": "demo-one",
+  "name": "@fuyun791/demo-one",
   "title": "第一个物料",
   "description": "测试物料",
   "type": "react-component",
@@ -10,14 +10,10 @@
   "author": "Fuyun791",
   "screenshot": "",
   "package": {
-    "name": "demo-one",
+    "name": "@fuyun791/demo-one",
     "version": "latest",
     "type": "npm",
     "registry": "",
-    "peerDependencies": [
-      "react",
-      "react-dom",
-      "@arco-design/web-react"
-    ]
+    "peerDependencies": ["react", "react-dom", "@arco-design/web-react"]
   }
 }
